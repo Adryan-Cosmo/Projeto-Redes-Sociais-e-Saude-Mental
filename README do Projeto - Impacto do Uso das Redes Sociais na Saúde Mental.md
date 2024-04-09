@@ -1,5 +1,5 @@
 
-# <center> Impacto do Uso das Redes Sociais na Saúde Mental<center>
+# <center><font color='#97E4FF'>Impacto do Uso das Redes Sociais na Saúde Mental</font></center> 
 
 > ![Logo do projeto](/images/Logo.svg)
 
