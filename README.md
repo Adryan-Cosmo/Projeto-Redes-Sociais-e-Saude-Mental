@@ -1,6 +1,6 @@
 
 # Impacto do Uso das Redes Sociais na Saúde Mental  
-  ![Logo do projeto](/images/Logo.svg) 
+  ![Logo do projeto](/images/Banner_Projeto.svg) 
 
 
 
