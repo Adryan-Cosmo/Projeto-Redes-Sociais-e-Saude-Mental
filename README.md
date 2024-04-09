@@ -3,7 +3,6 @@
   ![Logo do projeto](/images/Banner_Projeto.svg) 
 
 
-
 ## Introdução
 
 O presente projeto de pesquisa visa analisar o impacto do uso excessivo das redes sociais na saúde mental dos indivíduos. A pesquisa se justifica pela crescente relevância do tema no contexto social atual, onde o uso das redes sociais se tornou onipresente e, em muitos casos, excessivo.
@@ -25,10 +24,19 @@ O questionário será desenvolvido em uma plataforma online com respostas anôni
 
 ## Análise de Dados
 
-Os dados coletados serão analisados ​​utilizando técnicas de análises exploratórias para examinar padrões, intervalos e distribuições de valores, como:
+Início da análise exploratória dos dados das variáveis targets: Ansiedade nas Redes Sociais, Preocupação Negativa e Frequência de Depressão.
 
-* Análise descritiva;
-* Ferramentas de visualização de dados.
+A análise univariada incluiu:
+
+> **Visualização da distribuição dos dados:**
+  * Observou-se a necessidade de criar dicionários para simplificar os valores de features como "Consentimento", para melhor visualização dos dados.
+  * A maioria das features não possui distribuição normal, sendo em sua maioria inclinada à esquerda.
+    
+> **Verificação da quantidade de nulos:**
+  * Algumas features como "Nome" sempre terão seus valores nulos por se tratar de uma pesquisa anônima.
+
+> Identificação de outliers:
+  * Inicialmente, não foram encontrados outliers.
 
 ## Resultados Esperados
 
@@ -48,7 +56,8 @@ A pesquisa espera ter um impacto significativo na área da psicologia e da compu
 
 ## Status Atual
 
-No momento, o projeto encontra-se na fase de separação dos dados para validação.
+* Separação dos dados para validação concluída.
+* Início da análise exploratória dos dados.
 
 ## **Contribua para a Pesquisa**
 
